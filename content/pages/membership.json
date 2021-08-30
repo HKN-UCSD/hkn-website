@@ -1,0 +1,15 @@
+{
+  "title": "Membership",
+  "path": "/membership",
+  "hero": {
+    "image": "../images/membership-images/induction-banner.jpeg",
+    "headline": "Membership"
+  },
+  "blocks": [
+    {
+      "content": "HKN is an invite-only honor society, and to induct one must receive an invitation. Eligible students must also have a major consisting of ECE, CSE, BENG, MAE, MATH-CS, NANO-EE, and COGS-ML. If you are a COGS-ML student, please email us for instructions.\n\nAdditionally, members at the time of induction must fall into one of the following:\n\n* top 1/3 of their senior standing or graduate student class\n* top 1/4 of their junior standing class\n* top 1/5 of their senior standing class",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}

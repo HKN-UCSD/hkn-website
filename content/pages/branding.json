@@ -1,0 +1,20 @@
+{
+  "title": "Branding",
+  "path": "/branding",
+  "hero": {
+    "headline": "Branding",
+    "image": "../images/misc-images/sky-blue-background.jpeg"
+  },
+  "blocks": [
+    {
+      "content": "## Our Logo\n\n***",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "",
+      "_template": "ImageBlock",
+      "content": ""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "History",
+  "path": "/history",
+  "hero": {
+    "large": false,
+    "image": "../images/logos-branding/HKN-Blue.png",
+    "headline": "History",
+    "ctas": [
+      {
+        "label": "Branding",
+        "link": "/branding"
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "content": "## Meet Our 2020-2021 Board\n\n***",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/officers-images/Officers_2020-2021.png",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "Row 1: **Allan Ateek**, _President_; **Sashank Vempati**, _Vice President External_; **Aneesh Jalan**, _Vice President Internal_; **Tim Jiang**, _Vice President Events_; **Kyra Hulse**, _Vice President Induction_ \n\nRow 2: **Joel Bisarra**, _Vice President Outreach_; **Godwin Pang**, _Software Developer Lead_; **Samarth Arora**, _Treasurer_; **Henry Wang**, _H.A.R.D. Hack Director_; **Dylan Perlson**, _Social Chair_\n\nRow 3: **Vivian Chiong**, _ECE Dept. Chair_; **Pranav Narasimmaraj**, _CSE Dept. Chair_; **Allison Gao**, _COGS Dept. Chair_; **Joona Kim**, _CSE Outreach_; **David Febles**, _Publicity Chair & Historian_\n\nRow 4: **Raini Wu**, _Project Chair_; **Ashwin Rao**, _Special Events Officer_; **Aimee Shao**, _Software Developer_; **Eric Ke**, _Software Developer_; **Frank Ye**, _Software Developer_\n\nRow 5: **Thai Gillespie**, _Software Developer_; **Jeffrey Yang**, _Software Developer_\n\nNot Pictured: **Jim Villani**, _ECE Outreach_\n\n[Click here to meet our previous boards](/previous-officers).",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "content": "## \n\n***\n\n## Kappa Psi History\n\n***\n\nThe University of California, San Diego chapter, Kappa Psi, was started in 2005. We originally started as an electrical engineering honor society, but have grown to honor EE-related majors in CSE, MAE, NANO, MATH, and COGS departments. Since our founding, we have inducted 400+ members and hosted 80+ events a year for the public and our members. Our organization continues to be a sign of academic and professional excellence.\n\n## HKN History\n\n***\n\n**Eta Kappa Nu (HKN)** is the result of the vision of Maurice L. Carr, an electrical engineering student at the University of Illinois. He shared that vision with nine other students who together founded the organization on October 28, 1904. After much deliberation, it was decided that HKN would be an Electrical Engineering Honor Society, with scholarship as the primary requirement. In 1947, scholastic qualifications to become a member of HKN were set to the upper one-fourth of the junior EE class and the upper one-third of the senior EE class. The Wheatstone Bridge symbol was selected as the emblem of HKN by the founding group, and the HKN Coat of Arms or Shield was initiated in 1927.\n\n \n\nMaurice Carr viewed the founding of Eta Kappa Nu not just as a way to garner jobs for its members, but also as an incentive and inspiration for all engineering students. He recognized that the prestige and reputation of the society rested on the character of its members after graduation. In 1939, Carr wrote, “Eta Kappa Nu grew because there has always been many members who have been willing and eager to serve it loyally and unselfishly.” This is as true today as it was in 1939.\n\n \n\nEta Kappa Nu’s first publication was a small four-page leaflet titled “The Electrical Field,” issued in the spring of 1906. It was devoted almost entirely to the subject of employment. It contained commentary about four companies that employed electrical engineers, and it included the list of names of the members graduating from both the University of Illinois and the Purdue University chapters. In 1913, “The Electrical Field” was renamed “The Bridge”. Today, “The Bridge” is published twice a year.\n\n \n\nIn the 20th century, World War II occurred, paving the way for substantial growth of the Electrical Engineering field. Since the War, the electronics/electrical industry has become a driving economic force, and Eta Kappa Nu has fostered many of the leaders that have established this industry.\n\n \n\nThe endless accomplishments made by members of HKN, and the value of HKN’s program have demonstrated the importance of excellence and scholarship. Both academia and industry value HKN and the many accomplishments of its 200,000 members.\n\nCredit: [HKN Headquarters](https://hkn.ieee.org)",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}

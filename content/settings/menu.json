@@ -5,16 +5,16 @@
       "link": "/"
     },
     {
-      "label": "About",
-      "link": "/about"
+      "label": "History",
+      "link": "/history"
     },
     {
-      "label": "Blog",
-      "link": "/blog"
+      "label": "Membership",
+      "link": "/membership"
     },
     {
-      "label": "Contact",
-      "link": "/contact"
+      "label": "Get Involved",
+      "link": "/events"
     }
   ]
 }

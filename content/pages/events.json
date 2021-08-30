@@ -1,0 +1,57 @@
+{
+  "title": "Events",
+  "path": "/events",
+  "hero": {
+    "image": "../images/events-images/events-header.jpg",
+    "headline": "Get Involved",
+    "textline": "Every year, we host nearly 100 events. Events have a variety of topics, ranging from interview advice to socials to workshops. Here are some of our more notable events:",
+    "ctas": []
+  },
+  "blocks": [
+    {
+      "content": "## H.A.R.D. Hack\n\n***\n\nHARD Hack is a 24-hour hardware hackathon HKN holds annually in collaboration with IEEE. We provide the materials and the tools needed to make a hardware hack. Come out and build something cool! Anyone can attend, regardless of skill level.",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/events-images/hard-hack-header-2.jpg",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "***\n\n## ECE Day\n\n***\n\nJoin us to learn, network, and grow at our annual ECE Day! Our mission is to celebrate everything that encompasses the spirit of Electrical and Computer Engineering and bring awareness of all that it offers to its students, faculty, and beloved alumni. Enjoy workshops, networking opportunities, and more!",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/events-images/ECE-Day-Logo.png",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "***\n\n## Honors Networking\n\n***\n\nThe Honors Networking Event is an effort to provide the best networking experience between our school’s engineers and tech professionals. In this gathering between company representatives, alumni, and students. All attendees will have the opportunity to converse with anyone in attendance, strike up group discussion topics, and form deeper connections.",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/events-images/Honors-Networking.jpg",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "## \n\n***\n\n## Honors Recruiting\n\n***\n\nEvery year, Eta Kappa Nu at UC San Diego holds an **Honors Recruiting Event**!, exclusive to our undergraduate and graduate honor students of each engineering department at UC San Diego. Come to meet face-to-face with top companies seeking to hire you. Some companies come specifically for this event, so be sure not to miss it!",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/events-images/HKN-2019-Honors-Recruiting.png",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "***\n\nVisit [our blog](/blog) to learn about our past events!\n\nIf you are a company that has professionals interested in networking with or meeting our top engineering students, please [contact us](/contact) for more information.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}

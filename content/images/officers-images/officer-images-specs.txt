@@ -1,0 +1,12 @@
+Distance of any photo from edges: 60 pixels
+Distance between different images: 20 pixels
+
+There shoud be 5 images per row on the image. Names follow same format as
+website's format: Name [in bold], Position [in italics];
+
+Individual Officer Image Dimensions:
+	scale to an 850x900 image
+	actual size on full panel image: 472 x 500
+
+Full Image Width: 2560 pixels
+Full Image Height: 120 + num_rows*500 + (num_rows-1)*20
