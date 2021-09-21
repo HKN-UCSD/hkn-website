@@ -1,4 +1,16 @@
 {
   "title": "Sponsorship",
-  "path": "/sponsors"
+  "path": "/sponsors",
+  "hero": {
+    "image": "../images/logos-branding/HKN-White.png",
+    "headline": "Sponsorship Information",
+    "textline": "Your contributions make our operations and events possible. Thank you for your support!"
+  },
+  "blocks": [
+    {
+      "content": "As a sponsor, your support will be instrumental in allowing us to continue to grow the Kappa Psi chapter. In return, we offer your company the opportunity to host events with us and meet our members, a dedicated group of top engineering students with immense potential.\n\nEvents you can plan with us include workshops, company tours and informational sessions, and socials. As a sponsor, you’ll also have the opportunity to attend some of our special events, which will allow you to recruit and network with our members. For more information on our special events, [visit our events page](/events).\n\nWe currently have three tiers of sponsorship. At the basic level, your company logo will be visible on our website, and you’ll have access to our member resume book.\n\n[For more information, view our sponsorship packet.](https://docs.google.com/document/d/1IWj8F0JOzZHdL0o-cxbAhSCoQoKPNZc-KEq1-4LYj30/edit?usp=sharing)\n\nIf you have any questions, feel free to [contact us](/contact) or email us at [hkn@eng.ucsd.edu](mailto:hkn@eng.ucsd.edu). Thank you very much for your support! We look forward to working with you.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
 }
