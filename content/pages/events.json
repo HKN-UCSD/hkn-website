@@ -49,7 +49,17 @@
       "content": ""
     },
     {
-      "content": "***\n\nVisit [our blog](/blog) to learn about our past events!\n\nIf you are a company that has professionals interested in networking with or meeting our top engineering students, please [contact us](/contact) for more information.",
+      "content": "## Outreach\n\n***\n\nHKN also provides outreach to schools around the San Diego area to foster interest in the engineering field. We do this through creating project-based curricula to introduce various fields of engineering to K-12 students. UCSD engineering students have the ability to contribute to the development of these curricula and gain various technical, professional, and communication skills, as well as class credit, through signing up for our class. Please reach out to the outreach officers if you are interested in participating.",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/events-images/outreach.jpg",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "***\n\nIf you are a company that has professionals interested in networking with or meeting our top engineering students, please [contact us](/contact) for more information or email us at [hkn@eng.ucsd.edu](mailto:hkn@eng.ucsd.edu).",
       "center": false,
       "_template": "ContentBlock"
     }
