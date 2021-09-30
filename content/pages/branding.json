@@ -12,7 +12,22 @@
       "_template": "ContentBlock"
     },
     {
-      "image": "",
+      "image": "../images/logos-branding/HKN-White.png",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "content": "We also have copies of this logo in black and blue. Here are the download links for each color SVG.",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "content": "***\n\n## Our Colors\n\n***",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/logos-branding/HKN-Colors.png",
       "_template": "ImageBlock",
       "content": ""
     }
