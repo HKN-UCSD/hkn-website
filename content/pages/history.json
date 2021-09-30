@@ -5,12 +5,7 @@
     "large": false,
     "image": "../images/logos-branding/HKN-Blue.png",
     "headline": "History",
-    "ctas": [
-      {
-        "label": "Branding",
-        "link": "/branding"
-      }
-    ]
+    "ctas": []
   },
   "blocks": [
     {
