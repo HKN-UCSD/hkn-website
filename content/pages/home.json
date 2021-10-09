@@ -23,7 +23,7 @@
     "ctas": [
       {
         "label": "Member Portal",
-        "link": "/blog",
+        "link": "https://portal.hknucsd.com",
         "primary": true,
         "arrow": true
       },
