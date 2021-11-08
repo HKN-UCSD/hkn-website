@@ -13,6 +13,16 @@ export const Footer = styled(({ ...styleProps }) => {
         <a href="https://www.tinacms.org">Tina</a> <span>by </span>
         <a href="https://www.forestry.io">Forestry.io</a> . Website built by Anjali Srinivasan.
       </Wrapper>
+      <Wrapper>
+        Join Our {" "}
+        <a href="https://discord.gg/9gZp7vwY49">Discord</a> and{" "} our{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScPvxfn2gGO5tz6jUjwY2YkzxNahmnv9--ABw4TbgrKIxJ0Yw/viewform">Newsletter</a>
+      </Wrapper>
+      <Wrapper>
+        Follow us on {" "}
+        <a href="https://www.facebook.com/hknucsd">Facebook</a> and{" "}
+        <a href="https://www.instagram.com/hkn_ucsd/">Instagram</a>!
+      </Wrapper>
     </footer>
   )
 })`
