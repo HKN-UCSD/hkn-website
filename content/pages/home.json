@@ -12,13 +12,13 @@
       "content": ""
     },
     {
-      "content": "Your support is instrumental in allowing us to hold our events and grow our membership.\n\nIf you are a company interested in sponsoring us, [visit our sponsors page for more information](/sponsors), and email us at hkn@eng.ucsd.edu with any questions.",
+      "content": "Your support is instrumental in allowing us to hold our events and grow our membership.\n\nIf you are a company interested in sponsoring us, [visit our sponsors page for more information](/sponsors), and email us at [hkn@eng.ucsd.edu](mailto:hkn@eng.ucsd.edu) with any questions.",
       "center": false,
       "_template": "ContentBlock"
     }
   ],
   "hero": {
-    "headline": "Eta Kappa Nu",
+    "headline": "Eta Kappa Nu (Kappa Psi)",
     "textline": "Engineering Honor Society at UC San Diego",
     "ctas": [
       {
