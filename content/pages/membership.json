@@ -2,8 +2,9 @@
   "title": "Membership",
   "path": "/membership",
   "hero": {
-    "image": "../images/membership-images/induction-banner.jpeg",
-    "headline": "Membership"
+    "image": "../images/[object Object]",
+    "headline": "Membership",
+    "large": false
   },
   "blocks": [
     {
